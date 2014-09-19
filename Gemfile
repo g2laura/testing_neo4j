@@ -31,8 +31,6 @@ gem 'parallel'
 
 gem 'neo4j', github: 'andreasronge/neo4j'
 
-gem 'neography'
-
 gem 'pry'
 
 group :doc do
